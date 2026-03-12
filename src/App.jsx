@@ -7,6 +7,7 @@
 const App = () => {
   //  Área de programação JavaScript
 
+  
   return (
     <>
       {/* comentário na área estática do ReactJS */}
